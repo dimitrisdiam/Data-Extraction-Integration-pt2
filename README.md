@@ -4,9 +4,9 @@
 This project is part of an academic course on Data Integration & Preparation, focusing on profiling relational data, entity resolution, and data preparation techniques. It utilizes various data manipulation and matching techniques to ensure data quality and usefulness.
 
 ## Team Members
-- Dimitrios Diamantidis - 7766408
-- Johan Hensman - 1118994
-- Nicky Schilperoort - 5755354
+- Dimitrios Diamantidis
+- Johan Hensman
+- Nicky Schilperoort 
 
 ## Project Structure
 
